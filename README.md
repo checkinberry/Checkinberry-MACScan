@@ -1,2 +1,2 @@
 # Checkinberry-MACScan
-WiFi scanner that returns the mac from the device
+WiFi scanner that returns the MAC from the device
